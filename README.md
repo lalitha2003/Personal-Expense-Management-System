@@ -15,7 +15,8 @@ Summary
 
 
 
-
+Note:- 
+You need to define your mongoDB Url in .env file for saving and fetching data
 
 
 ### `npm run dev`
